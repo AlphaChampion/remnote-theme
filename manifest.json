@@ -1,0 +1,18 @@
+{
+  "manifestVersion": 1,
+  "id": "theme_template",
+  "name": "Theme Template",
+  "author": "MAM",
+  "repoUrl": "",
+  "enableOnMobile": false,
+  "unlisted": true,
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "theme": ["dark"],
+  "description": "",
+  "requestNative": false,
+  "requiredScopes": []
+}
